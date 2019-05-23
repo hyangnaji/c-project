@@ -1,0 +1,143 @@
+﻿  main.c
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(46): warning C4098: 'main_menu': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(72): warning C4098: 'login_menu': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(80): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(82): warning C4098: 'login_menu': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(92): warning C4098: 'login_menu': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(62): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(77): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(86): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(87): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(121): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(175): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(219): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(199): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(235): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(237): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(285): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(319): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(381): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(422): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(442): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(452): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(458): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(476): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(477): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(478): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(479): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(484): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(520): warning C4098: 'change_food': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(509): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(515): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(551): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: 'strncpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(581): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(583): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(586): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(587): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(588): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(589): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(668): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(741): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(773): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(694): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(702): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(729): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(732): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(748): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(750): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(754): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(756): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(762): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(764): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(782): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(783): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(784): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(785): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(792): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(875): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(883): warning C4098: 'delete_data': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(823): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(831): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(846): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(847): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(848): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(849): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\interface.h(856): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\function.h(14): warning C4113: 'void (__cdecl *)()'은(는) '_beginthread_proc_type'과(와) 매개 변수 목록이 다릅니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\function.h(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\function.h(134): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\function.h(159): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\function.h(169): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\function.h(200): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\siwon\desktop\net_cafe\net_cafe\function.h(309): warning C4098: 'order_food': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\siwon\desktop\net_cafe\net_cafe\function.h(284): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  Net_Cafe.vcxproj -> C:\Users\siwon\Desktop\Net_Cafe\Debug\Net_Cafe.exe
